@@ -9,10 +9,10 @@
 
 
     <style name="mainStyle" parent="Theme.AppCompat.Light">
-        <item name="colorPrimary">#9F7DD1</item>
+        <item name="colorPrimary">#1D6D9A</item>
         <item name="colorPrimaryVariant">#4F1AC6</item>
         <item name="colorOnPrimary">@color/white</item>
-        <item name="backgroundTint">#E30D0D</item>
+        <item name="backgroundTint">#5379A8</item>
     </style>
 
 

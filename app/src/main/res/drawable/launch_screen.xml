@@ -2,6 +2,6 @@
 <layer-list xmlns:android="http://schemas.android.com/apk/res/android"
     android:opacity="opaque">
     <item
-        android:drawable="@drawable/ic_baseline_assignment_ind_24" android:bottom="300dp" android:top="300dp" android:left="50dp" android:right="50dp"/>
+        android:drawable="@drawable/icon" android:bottom="300dp" android:top="300dp" android:left="50dp" android:right="50dp"/>
 
 </layer-list>

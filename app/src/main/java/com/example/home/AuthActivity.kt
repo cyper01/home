@@ -26,15 +26,15 @@ class AuthActivity : AppCompatActivity() {
 
         if(!etLogin.text.toString().isEmpty()&&!password.isEmpty()){
 
-            if(login=="admin"&&password=="12345") {
+            if(login=="makYs"&&password=="D0lynC") {
                 val intent = Intent(this@AuthActivity, MentActivity::class.java)
                 startActivity(intent)
             }
-            else if(login=="hhg"&&password=="12345") {
+            else if(login=="pushking"&&password=="olegsandR") {
                 val intent = Intent(this@AuthActivity, MentActivity::class.java)
                 startActivity(intent)
             }
-            else if(login=="1"&&password=="2") {
+            else if(login=="kultor"&&password=="huToroV44") {
                 val intent = Intent(this@AuthActivity, MentActivity::class.java)
                 startActivity(intent)
             }
