@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <style name="launchStyle" parent="Theme.Design.NoActionBar">
+        <item name="android:windowBackground">@drawable/launch_screen</item>
+    </style>
+
+
+
+    <style name="mainStyle" parent="Theme.AppCompat.Light">
+        <item name="colorPrimary">#9F7DD1</item>
+        <item name="colorPrimaryVariant">#4F1AC6</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="backgroundTint">#E30D0D</item>
+    </style>
+
+
+
+</resources>
